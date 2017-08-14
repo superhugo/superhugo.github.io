@@ -3,11 +3,14 @@
 
   a {
     img {
+      -webkit-transition: all ease-in-out .12s;
       transition: all ease-in-out .12s;
     }
 
     &:hover img {
+      -webkit-transform: scale(1.02);
       transform: scale(1.02);
+      -webkit-box-shadow: 0 0 16px 1px $mid_grey;
       box-shadow: 0 0 16px 1px $mid_grey;
     }
   }
