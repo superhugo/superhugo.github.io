@@ -1,0 +1,23 @@
+- filename: "2017-07-01-etretat.jpg"
+  filename_2x: "2017-07-01-etretat-2x.jpg"
+  location: "Étretat, France"
+
+- filename: "2017-05-27-anglet.jpg"
+  filename_2x: "2017-05-27-anglet-2x.jpg"
+  location: "Anglet, France"
+
+- filename: "2017-05-27-labenne.jpg"
+  filename_2x: "2017-05-27-labenne-2x.jpg"
+  location: "Labenne-Océan, France"
+
+- filename: "2017-06-17-dinard.jpg"
+  filename_2x: "2017-06-17-dinard-2x.jpg"
+  location: "Dinard, France"
+
+- filename: "2017-06-17-saint-malo.jpg"
+  filename_2x: "2017-06-17-saint-malo-2x.jpg"
+  location: "Saint-Malo, France"
+
+- filename: "2017-06-25-cannes.jpg"
+  filename_2x: "2017-06-25-cannes-2x.jpg"
+  location: "Cannes, France"

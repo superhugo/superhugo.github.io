@@ -1,0 +1,50 @@
+.header {
+  font-size: 1.25rem;
+}
+
+.header-logo {
+  font-weight: 600;
+}
+
+.header-links {
+  font-size: 1.25rem;
+
+  a {
+    color: $mid_grey;
+
+
+    &:hover {
+      color: $dark_grey;
+    }
+
+    &.current-page {
+      color: $dark_grey;
+    }
+  }
+
+  li {
+    margin-right: 2rem;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .header {
+    text-align: center;
+  }
+
+  .header-logo {
+    flex: auto;
+    width: 100%;
+  }
+
+  .header-links {
+    flex: auto;
+    justify-content: center;
+    width: 100%;
+    margin-top: 1rem;
+  }
+}

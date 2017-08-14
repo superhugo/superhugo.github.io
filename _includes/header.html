@@ -1,0 +1,26 @@
+<header class="header py4">
+  <div class="wrapper flex flex-wrap">
+    <div class="header-logo flex-1">
+      <a href="/">
+        {{ site.name }}
+      </a>
+    </div>
+    <ul class="header-links flex flex-1 flex-end list-reset mb0">
+      <li>
+        <a href="/" {% if page.slug == "work" %}class="current-page"{% endif %}>
+          Work
+        </a>
+      </li>
+      <li>
+        <a href="/photos/" {% if page.slug == "photos" %}class="current-page"{% endif %}>
+          Photos
+        </a>
+      </li>
+      <li>
+        <a href="/about/" {% if page.slug == "about" %}class="current-page"{% endif %}>
+          About
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>

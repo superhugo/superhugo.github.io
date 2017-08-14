@@ -1,0 +1,20 @@
+title: "Hugo Davoust – Designer+Hacker"
+name: "Hugo Davoust"
+email: "hello@hugo.io"
+description: "Hugo Davoust is a Designer+Hacker."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hugo.io"
+instagram_url: "https://instagram.com/superhugo"
+linkedin_url: "https://www.linkedin.com/in/hugodavoust"
+
+thermopeanut_video_url: "https://www.youtube.com/embed/E3K8aA2Rakg"
+guardpeanut_video_url: "https://www.youtube.com/embed/yEBNWYqeBFw"
+sleeppeanut_video_url: "https://www.youtube.com/embed/sbX_lBIMvvs"
+mother_video_url: "https://www.youtube.com/embed/G_9DpuFVo4Y"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+sass:
+  style: compressed

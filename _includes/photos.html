@@ -1,0 +1,18 @@
+<div class="photos pt4">
+  <div class="wrapper">
+
+    {% for photo in site.data.photos %}
+      <div class="photo mb4">
+        <img
+          src="/assets/images/photos/{{ photo.filename }}"
+          srcset="/assets/images/photos/{{ photo.filename_2x }} 2x"
+          alt="{{ photo.location }}"
+          class="block">
+        <div class="fz-14 text-grey mt1 right-align">
+          {{ photo.location }}
+        </div>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>

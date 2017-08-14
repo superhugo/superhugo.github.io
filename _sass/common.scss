@@ -1,0 +1,50 @@
+.wrapper {
+  width: 95%;
+  max-width: 64rem;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.wrapper-p0 {
+  width: 95%;
+  max-width: 64rem;
+  margin: 0 auto;
+}
+
+// Colors
+$dark_grey: #222;
+$mid_grey: #999;
+
+// Typography
+.fw-500 {
+  font-weight: 500;
+}
+
+.text-grey {
+  color: $mid_grey;
+}
+
+.fz-16 {
+  font-size: 1rem;
+}
+
+.fz-14 {
+  font-size: .875rem;
+}
+
+// Video
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

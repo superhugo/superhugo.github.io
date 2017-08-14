@@ -1,0 +1,14 @@
+.project {
+  color: $dark_grey;
+
+  a {
+    img {
+      transition: all ease-in-out .12s;
+    }
+
+    &:hover img {
+      transform: scale(1.02);
+      box-shadow: 0 0 16px 1px $mid_grey;
+    }
+  }
+}

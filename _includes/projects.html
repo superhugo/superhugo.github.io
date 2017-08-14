@@ -1,0 +1,23 @@
+<div class="projects pt4">
+  <div class="wrapper-p0 flex flex-wrap">
+
+    {% for project in site.data.projects %}
+      <div class="project col-6 col-sm-12 px2 mb4">
+        <a href="{{ project.url }}" {% if project.blank == true %} target="_blank" {% endif %}>
+          <img
+            src="/assets/images/projects{{ project.image }}"
+            srcset="/assets/images/projects{{ project.image_2x }} 2x"
+            alt="{{ project.title }}"
+            class="project-image block">
+        </a>
+        <div class="fw-500 mt2">
+          {{ project.title }}
+        </div>
+        <div class="fz-14 text-grey">
+          {{ project.description }}
+        </div>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>

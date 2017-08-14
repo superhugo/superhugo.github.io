@@ -1,0 +1,30 @@
+- title: "ThermoPeanut"
+  description: "ThermoPeanut is a Smart Bluetooth Thermometer. Monitor temperature anywhere and control home heating."
+  image: "/thermopeanut/thermopeanut-thumbnail.jpg"
+  image_2x: "/thermopeanut/thermopeanut-thumbnail-2x.jpg"
+  url: "/work/thermopeanut/"
+
+- title: "GuardPeanut"
+  description: "GuardPeanut is a Smart Motion Alarm. Get instant alerts if something moves when it shouldn't."
+  image: "/guardpeanut/guardpeanut-thumbnail.jpg"
+  image_2x: "/guardpeanut/guardpeanut-thumbnail-2x.jpg"
+  url: "/work/guardpeanut/"
+
+- title: "SleepPeanut"
+  description: "SleepPeanut is a Smart Sleep Tracker. Understand your sleep habits and wake up everyday at the perfect time."
+  image: "/sleeppeanut/sleeppeanut-thumbnail.jpg"
+  image_2x: "/sleeppeanut/sleeppeanut-thumbnail-2x.jpg"
+  url: "/work/sleeppeanut/"
+
+- title: "Mother"
+  description: "Mother is a family of Smart Home Sensors. She takes care of your health, safety and well-being."
+  image: "/mother/mother-thumbnail.jpg"
+  image_2x: "/mother/mother-thumbnail-2x.jpg"
+  url: "/work/mother/"
+
+- title: "Lulu"
+  description: "Lulu is a modular CSS toolkit for Ninjas. Build responsive interfaces in no time with no side effects. This website is powered by Lulu."
+  image: "/lulu/lulu-thumbnail.png"
+  image_2x: "/lulu/lulu-thumbnail-2x.png"
+  url: "https://github.com/superhugo/lulu"
+  blank: true
