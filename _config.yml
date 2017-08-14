@@ -16,7 +16,6 @@ mother_video_url: "https://www.youtube.com/embed/G_9DpuFVo4Y"
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - octopress-autoprefixer
 sass:
   style: compressed
 permalink: pretty
