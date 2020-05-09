@@ -1,3 +1,9 @@
+- title: "OuiCar"
+  description: "OuiCar is the French leading peer-to-peer car sharing platform. Anyone can list their own car on the platform and rent it out to other users."
+  image: "/ouicar/ouicar-thumbnail.png"
+  image_2x: "/ouicar/ouicar-thumbnail-2x.png"
+  url: "/work/ouicar/"
+
 - title: "ThermoPeanut"
   description: "ThermoPeanut is a Smart Bluetooth Thermometer. Monitor temperature anywhere and control home heating."
   image: "/thermopeanut/thermopeanut-thumbnail.jpg"
