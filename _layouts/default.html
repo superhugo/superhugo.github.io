@@ -10,14 +10,11 @@
   <link rel="stylesheet" href="{{ "/assets/stylesheets/main.css" | relative_url }}">
   <link rel="icon" type="image/png" href="/favicon.png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  {% include ga.html %}
 </head>
 <body>
 
   {{ content }}
-
-  {% if jekyll.environment == "production" %}
-    {% include ga.html %}
-  {% endif %}
 
 </body>
 </html>
