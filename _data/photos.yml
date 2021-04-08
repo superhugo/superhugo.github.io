@@ -1,3 +1,11 @@
+- filename: "2017-09-20-ste-marguerite.jpg"
+  filename_2x: "2017-09-20-ste-marguerite-2x.jpg"
+  location: "Sainte-Marguerite, France"
+
+- filename: "2019-03-13-tromso.jpg"
+  filename_2x: "2019-03-13-tromso-2x.jpg"
+  location: "Tromsø, Norvège"
+
 - filename: "2017-07-01-etretat.jpg"
   filename_2x: "2017-07-01-etretat-2x.jpg"
   location: "Étretat, France"
@@ -17,6 +25,10 @@
 - filename: "2017-06-17-saint-malo.jpg"
   filename_2x: "2017-06-17-saint-malo-2x.jpg"
   location: "Saint-Malo, France"
+
+- filename: "2018-04-29-oslo.jpg"
+  filename_2x: "2018-04-29-oslo-2x.jpg"
+  location: "Oslo, Norvège"
 
 - filename: "2017-06-25-cannes.jpg"
   filename_2x: "2017-06-25-cannes-2x.jpg"
