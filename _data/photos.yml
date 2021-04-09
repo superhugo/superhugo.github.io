@@ -10,6 +10,10 @@
   filename_2x: "2017-07-01-etretat-2x.jpg"
   location: "Étretat, France"
 
+- filename: "2018-09-16-etna.jpg"
+  filename_2x: "2018-09-16-etna-2x.jpg"
+  location: "Etna, Italie"
+
 - filename: "2017-05-27-anglet.jpg"
   filename_2x: "2017-05-27-anglet-2x.jpg"
   location: "Anglet, France"
@@ -29,7 +33,3 @@
 - filename: "2018-04-29-oslo.jpg"
   filename_2x: "2018-04-29-oslo-2x.jpg"
   location: "Oslo, Norvège"
-
-- filename: "2017-06-25-cannes.jpg"
-  filename_2x: "2017-06-25-cannes-2x.jpg"
-  location: "Cannes, France"
