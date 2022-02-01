@@ -3,9 +3,10 @@ name: "Hugo Davoust"
 email: "hello@hugo.io"
 description: "My name is Hugo Davoust. I'm a Designer+Hacker with a strong focus on usability and user experience."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hugo.io"
+url: "https://hugo.io"
 instagram_url: "https://instagram.com/superhugo"
 linkedin_url: "https://www.linkedin.com/in/hugodavoust"
+twitter_url: "https://twitter.com/hugorrific"
 
 thermopeanut_video_url: "https://www.youtube.com/embed/E3K8aA2Rakg"
 guardpeanut_video_url: "https://www.youtube.com/embed/yEBNWYqeBFw"
